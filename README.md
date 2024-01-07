@@ -38,7 +38,7 @@
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Network monitor and firewall ($45).
 - [Logitech G HUB](https://www.logitechg.com/en-us/innovation/g-hub.html) - Logitech gaming software (Free).
 - [Mac Mouse Fix](https://mousefix.org/) - A simple way to make your mouse better (Free).
-- [MacGPT](https://www.macgpt.com/) - MacGPT on your Mac and menu bar (Free).
+- [MacGPT](https://www.macgpt.com/) - MacGPT on your Mac and menu bar (Paid).
 - [MacUpdater](https://www.corecode.io/macupdater/) - Best updater out there (Paid).
 - [MediaMate](https://wouter01.github.io/MediaMate/) - Beautiful mac volume and brightness HUD (Paid).
 - [Mission Control Plus](https://www.fadel.io/missioncontrolplus) - Close apps from Mission Control ($2.99).
